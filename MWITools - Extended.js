@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         MWITools - Extended
 // @namespace    http://tampermonkey.net/
-// @version      23.4
+// @version      23.4.2
 // @description  Extention for MWITools.
 // @author       DrDucky
 // @license      CC-BY-NC-SA-4.0
 // @match        https://www.milkywayidle.com/*
 // @match        https://test.milkywayidle.com/*
-// @match        https://www.milkywayidlecn.com/*
 // @match        https://amvoidguy.github.io/MWICombatSimulatorTest/*
 // @match        https://shykai.github.io/mwisim.github.io/*
 // @match        https://shykai.github.io/MWICombatSimulatorTest/dist/*
